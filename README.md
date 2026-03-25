@@ -1,2 +1,15 @@
-# todo-app-python
-Simple command-line To-Do application with task management features
+# To-Do App (Python)
+
+A simple command-line To-Do application built with Python.
+
+## Features
+- Add tasks
+- View tasks
+- Delete tasks
+- Input validation
+
+## Technologies
+- Python
+
+## Author
+Alikhan Mukashov
